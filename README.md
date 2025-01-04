@@ -42,13 +42,13 @@ https://github.com/Ayushjhawar8/Smart-To-Do
 ## Screenshots
 
 ### Light Mode:
-![Light Mode Screenshot](path/to/light-mode-screenshot.png)
+![Light Mode Screenshot](https://github.com/Ayushjhawar8/Smart-To-Do/blob/main/stylesheets/Screenshots/sss1.png)
 
 ### Dark Mode:
-![Dark Mode Screenshot](path/to/dark-mode-screenshot.png)
+![Dark Mode Screenshot](https://github.com/Ayushjhawar8/Smart-To-Do/blob/main/stylesheets/Screenshots/sss2.png)
 
 ### Pie Chart Visualization:
-![Pie Chart Visualization Screenshot](path/to/pie-chart-screenshot.png)
+![Pie Chart Visualization Screenshot](https://github.com/Ayushjhawar8/Smart-To-Do/blob/main/stylesheets/Screenshots/sss4.png)
 
 ## Contribution
 
