@@ -23,19 +23,13 @@ Smart-To-Do is a dynamic and feature-rich to-do application designed to help you
 
 1. Clone the repository:
 ```bash
-https://github.com/Ayushjhawar8/Smart-To-Do
+git clone https://github.com/Ayushjhawar8/Smart-To-Do
 ```
-
-2. Navigate to the project directory:
-  ```bash
-  cd Smart-To-Do
-  ```
-
-3. Install the dependencies:
+2. Install the dependencies:
   ```bash
   npm install
   ```
-4. Start the application:
+3. Start the application:
   ```bash
   npm run dev
   ```
